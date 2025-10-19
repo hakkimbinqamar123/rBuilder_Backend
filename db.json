@@ -33,36 +33,6 @@
       "summary": "sometimes i need to tell you something. but "
     },
     {
-      "id": "035e",
-      "professionalData": {
-        "name": "nesmal",
-        "JobTitle": "sales officer",
-        "location": "mundakayam",
-        "email": "nes@gmail.com",
-        "phone": "081130 35426",
-        "github": "nes@gmail.com",
-        "linkedIn": "nes@gmail.com",
-        "portfolio": "nes@gmail.com"
-      },
-      "educatinalData": {
-        "course": "b.com",
-        "college": "mes",
-        "university": "mg",
-        "year": "2022"
-      },
-      "experience": {
-        "jobRole": "job",
-        "company": "hdb",
-        "jobLocation": "kply",
-        "duration": "1year"
-      },
-      "skill": [
-        "JavaScript",
-        "MongoDB"
-      ],
-      "summary": "good"
-    },
-    {
       "id": "e4cf",
       "professionalData": {
         "name": "habbqq",
